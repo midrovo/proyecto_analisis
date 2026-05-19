@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pyspark
+pyarrow
+fastparquet
+jupyter
+notebook
+ipykernel
+openpyxl
+findspark
