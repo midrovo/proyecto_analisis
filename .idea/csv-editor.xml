@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\reports\tablas\comparacion_modelos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reports\tablas\comparacion_modelos_final.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
